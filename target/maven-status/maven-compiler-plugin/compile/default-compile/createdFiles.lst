@@ -1,0 +1,11 @@
+usercrud\model\User.class
+usercrud\service\IUserService.class
+usercrud\config\WebConfig.class
+captcha\util\Util.class
+usercrud\service\UserService.class
+usercrud\model\UserDto.class
+usercrud\dao\UserDao.class
+usercrud\controller\UserController.class
+usercrud\config\WebInitializer.class
+usercrud\dao\IUserDao.class
+captcha\servlet\CaptchaGenServlet.class

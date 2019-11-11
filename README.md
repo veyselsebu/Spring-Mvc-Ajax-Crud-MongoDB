@@ -1,4 +1,4 @@
-# finartz-home-work
+# SpringMVC MongoDb Ajax Crud Example
 
 App URL:
 -------
